@@ -19,11 +19,11 @@ body {
     font-size: 160px;
 }
 
-#push,#unshift {
+#push-btn,#unshift-btn {
     background-color: #80D87F;
 }
 
-#shift,#pop {
+#shift-btn,#pop-btn {
     background-color: #E23349;
 }
 
@@ -59,3 +59,4 @@ button {
     justify-content: center;
     margin: 10px 0 40px;
 }
+
